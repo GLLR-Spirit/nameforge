@@ -1,293 +1,130 @@
-# 🔥 NameForge
+# NameForge
 
-### Free Name Generators for Characters, Games, Stories & Fantasy Worlds
+### Free Name Generators for Characters, Games, Stories, and Fantasy Worlds
 
-[![Website](https://img.shields.io/badge/Website-NameForge-8b5cf6?style=for-the-badge)](https://rayanellg.github.io/nameforge/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/RayaneLLG/nameforge)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#-license)
+[![Live Website](https://img.shields.io/badge/Visit-NameForge-7c3aed?style=for-the-badge)](https://gllr-spirit.github.io/nameforge/)
+[![Hosted with GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=for-the-badge&logo=github)](https://pages.github.com/)
 
-**NameForge** is a free web-based name generator designed to help creators discover unique names for characters, games, stories, role-playing adventures, anime-inspired worlds, fantasy universes and more.
+**NameForge** is a free, browser-based collection of name generators for writers, gamers, role-playing fans, and creators. Discover name ideas for fictional characters, fantasy worlds, dragons, kingdoms, anime-inspired stories, gaming identities, and more.
 
-Whether you need the name of a legendary hero, a mysterious wizard, a powerful dragon, a fictional kingdom or a gaming character, NameForge provides quick inspiration directly in your browser.
+> **Forge a name worth remembering.**
 
-🌐 **Visit NameForge:**
-https://rayanellg.github.io/nameforge/
+## 🌐 Explore NameForge
 
----
+- **Website:** [gllr-spirit.github.io/nameforge](https://gllr-spirit.github.io/nameforge/)
+- **All generators:** [Explore all name generators](https://gllr-spirit.github.io/nameforge/all-name-generators.html)
+- **My Names:** [Manage your saved name ideas](https://gllr-spirit.github.io/nameforge/my-names.html)
+- **Source code:** [GLLR-Spirit/nameforge](https://github.com/GLLR-Spirit/nameforge)
 
 ## ✨ Features
 
-NameForge is designed to make finding the right name fast, simple and enjoyable.
+### 🎭 A collection of name generators
 
-### 🎭 Multiple Name Generators
+Explore different naming styles for your next character, story, or creative project:
 
-Explore different name styles and fictional universes, including:
+| Generator | What it's for |
+|---|---|
+| 🐉 [Fantasy](https://gllr-spirit.github.io/nameforge/fantasy-name-generator.html) | Heroes, villains, mages, and magical worlds |
+| 🎲 [RPG](https://gllr-spirit.github.io/nameforge/rpg-name-generator.html) | Role-playing characters and adventures |
+| ✨ [Anime](https://gllr-spirit.github.io/nameforge/anime-name-generator.html) | Anime-inspired characters and fictional worlds |
+| 🎮 [Gaming](https://gllr-spirit.github.io/nameforge/gaming-name-generator.html) | Gaming names and character identities |
+| 🐲 [Dragon](https://gllr-spirit.github.io/nameforge/dragon-name-generator.html) | Dragons and legendary creatures |
+| 🏰 [Kingdom](https://gllr-spirit.github.io/nameforge/kingdom-name-generator.html) | Kingdoms, empires, and fictional territories |
+| 🧝 [Elf](https://gllr-spirit.github.io/nameforge/elf-name-generator.html) | Elven characters and fantasy settings |
+| 🧛 [Vampire](https://gllr-spirit.github.io/nameforge/vampire-name-generator.html) | Vampire characters and dark fiction |
+| 🧙 [Wizard](https://gllr-spirit.github.io/nameforge/wizard-name-generator.html) | Wizards, spellcasters, and magical characters |
+| ⚔️ [Warrior](https://gllr-spirit.github.io/nameforge/warrior-name-generator.html) | Warriors, fighters, and heroes |
+| 🚀 [Sci-Fi](https://gllr-spirit.github.io/nameforge/sci-fi-name-generator.html) | Science-fiction characters and futuristic worlds |
 
-* 🐉 Fantasy Name Generator
-* 🧝 Elf Name Generator
-* 🐲 Dragon Name Generator
-* 🏰 Kingdom Name Generator
-* ✨ Anime Name Generator
-* 🧛 Vampire Name Generator
-* 🧙 Wizard Name Generator
-* ⚔️ Warrior Name Generator
-* 🚀 Science Fiction Name Generator
-* 🎮 Gaming Name Generator
-* 🎲 RPG Name Generator
+Browse the [complete generator collection](https://gllr-spirit.github.io/nameforge/all-name-generators.html) to discover the available categories.
 
-The collection can continue to grow as new generators and categories are added.
+### 💾 Keep track of your ideas
 
-### ❤️ Personal Name Collection
+Use **My Names** to organize name ideas you want to revisit. Personal collection data is stored locally in your browser, so it is associated with the browser and device you use rather than an online account.
 
-NameForge allows users to interact with generated names and build their own personal collection.
+**Note:** Clearing your browser's site data or local storage may remove locally saved information.
 
-Depending on the available generator functionality, users can:
+### 📋 Quick and convenient
 
-* ❤️ Like names
-* 💾 Save names
-* 📝 Add private notes
-* 🗑️ Remove names
-* 🔎 Search their personal collection
-* ⭐ Browse their preferred names
+- Generate name ideas directly in your browser.
+- Copy names for use in games, stories, RPG campaigns, and creative projects.
+- Use the responsive interface on desktop, tablet, or mobile.
+- Explore a multilingual interface with a range of language options.
+- Start using the generators without creating an account.
 
-Personal name data is stored locally in the user's browser.
+## 🎯 Who is NameForge for?
 
-### 📋 Easy Copying
+NameForge can help:
 
-Generated names can be copied quickly so they can be used in:
+- ✍️ Writers and storytellers naming characters and places
+- 🎮 Gamers looking for character names or gaming identities
+- 🎲 RPG players creating characters and campaign settings
+- 🧙 World-builders designing fantasy universes
+- 💻 Game developers and creative project makers
+- 🎨 Anyone looking for inspiration for an original name
 
-* Games
-* RPG characters
-* Stories
-* Fictional worlds
-* Creative projects
-* Character profiles
-* World-building projects
+## 🛠️ Built with
 
-### 📱 Responsive Design
+NameForge is a static web project built with standard web technologies:
 
-NameForge is designed to work across:
+- **HTML5** — page structure and content
+- **CSS3** — layout, styling, and responsive design
+- **JavaScript** — interactive features and name-generation behavior
+- **GitHub Pages** — website hosting and deployment
 
-* 💻 Desktop computers
-* 💻 Laptops
-* 📱 Smartphones
-* 📱 Tablets
+The core experience runs in the browser and does not require a dedicated application backend.
 
-The interface adapts to different screen sizes while keeping the generators easy to use.
+## 📁 Project structure
 
-### 🌍 International Focus
-
-NameForge is designed for an international audience.
-
-The project aims to make fictional name generation accessible to users around the world through a simple browser-based experience.
-
----
-
-## 🎯 Why NameForge?
-
-Creating a good fictional name can be surprisingly difficult.
-
-A name can influence how a character, kingdom, creature or fictional universe feels to the audience.
-
-NameForge is built around a simple idea:
-
-> **Find the name that fits your creation.**
-
-Instead of spending a long time combining random words manually, users can generate multiple possibilities and choose the one that best matches their idea.
-
-NameForge can be useful for:
-
-* ✍️ Writers
-* 🎮 Gamers
-* 🎲 RPG players
-* 🧙 World builders
-* 🎨 Creators
-* 📖 Storytellers
-* 💻 Game developers
-* 🧩 Character designers
-
----
-
-## 🛠️ Technologies
-
-NameForge is currently built using standard web technologies:
-
-### HTML
-
-Used to structure the pages, generators, navigation and content.
-
-### CSS
-
-Used to create the visual design, responsive layouts, cards, buttons, gradients, animations and overall user interface.
-
-### JavaScript
-
-Used to power the interactive functionality, including:
-
-* Name generation
-* Randomization
-* Generator controls
-* Copy buttons
-* Likes
-* Saved names
-* Notes
-* Local storage
-* Search and filtering
-* Interactive interface behavior
-
-### GitHub Pages
-
-The website is deployed using GitHub Pages.
-
----
-
-## 📁 Project Structure
-
-The project follows a simple static-web architecture.
+The repository is organized around individual generator pages, shared styling and scripts, and a GitHub Actions workflow.
 
 ```text
 nameforge/
-│
+├── .github/
+│   └── workflows/
+├── css/
+├── js/
 ├── index.html
-│
 ├── all-name-generators.html
-│
 ├── fantasy-name-generator.html
-├── elf-name-generator.html
+├── rpg-name-generator.html
+├── anime-name-generator.html
+├── gaming-name-generator.html
 ├── dragon-name-generator.html
 ├── kingdom-name-generator.html
-├── anime-name-generator.html
+├── elf-name-generator.html
 ├── vampire-name-generator.html
 ├── wizard-name-generator.html
 ├── warrior-name-generator.html
-├── science-fiction-name-generator.html
-├── gaming-name-generator.html
-├── rpg-name-generator.html
-│
+├── sci-fi-name-generator.html
 ├── my-names.html
-│
-├── js/
-│   └── nameforge-storage.js
-│
 ├── sitemap.xml
-├── robots.txt
 └── README.md
 ```
 
-> The project structure may evolve as NameForge receives new generators and features.
+This is a high-level overview; the repository may change as the project develops.
 
----
+## 🔎 Search discoverability
 
-## 💾 Local Storage
+NameForge includes dedicated pages for individual generator categories, helping visitors find relevant tools for specific naming needs. The repository also includes a sitemap and page-level metadata intended to support search-engine discovery.
 
-NameForge's personal collection uses the browser's **Local Storage** system.
+Search engines determine independently whether and when pages are indexed.
 
-This allows information such as saved names, liked names and personal notes to remain available in the same browser without requiring a user account or external database.
+## 🚀 Development
 
-This also means that personal collection data is tied to the user's browser/device.
+NameForge is an evolving project. Future improvements may include additional generator categories, usability refinements, accessibility enhancements, and further performance improvements.
 
-Clearing the browser's local storage can remove locally stored NameForge data.
+If you find a problem or have a suggestion, you can use the repository's GitHub Issues section to share feedback.
 
----
-
-## ⚡ Performance
-
-NameForge is designed as a lightweight browser-based application.
-
-The project avoids unnecessary backend infrastructure for its core name-generation experience, allowing the generators to run directly in the browser.
-
-This provides several advantages:
-
-* ⚡ Fast interaction
-* 📦 Lightweight pages
-* 🌐 No account required for basic generation
-* 💻 Browser-based execution
-* 📱 Mobile-friendly interface
-* 🔒 Personal local data storage
-
-Performance will continue to be improved as the project grows.
-
----
-
-## 🔍 SEO & Discoverability
-
-NameForge is designed with search-engine discoverability in mind.
-
-The project includes SEO-oriented elements such as:
-
-* Descriptive page titles
-* Meta descriptions
-* Canonical URLs
-* Structured page content
-* Search-friendly generator pages
-* Sitemap
-* Robots instructions
-* Individual pages for different name categories
-
-Each generator can therefore target a specific search intent rather than relying on a single generic page.
-
----
-
-## 🌐 Website
-
-### NameForge
-
-**Live website:**
-
-https://rayanellg.github.io/nameforge/
-
-**Main generator collection:**
-
-https://rayanellg.github.io/nameforge/all-name-generators.html
-
----
-
-## 🚀 Future Development
-
-NameForge is an evolving project.
-
-Potential future improvements include:
-
-* 🌍 Expanded language support
-* 🧩 More specialized generators
-* 🎨 Additional visual themes
-* ⚡ Performance improvements
-* 🔎 Improved search functionality
-* ⭐ More advanced personal collections
-* 🧠 More sophisticated name-generation systems
-* 📱 Further mobile optimization
-* ♿ Improved accessibility
-* 🔗 Better sharing functionality
-* 📊 Additional project statistics and insights
-
-The goal is to gradually transform NameForge into a large, polished and accessible name-generation platform.
-
----
-
-## 🤝 Contributing
-
-NameForge is currently maintained as an independent project.
-
-If you discover a bug, have an idea for an improvement or want to suggest a new generator, you can open an issue in the GitHub repository.
-
-**Repository:**
-
-https://github.com/RayaneLLG/nameforge
-
----
+- **Repository:** [GLLR-Spirit/nameforge](https://github.com/GLLR-Spirit/nameforge)
+- **Live website:** [NameForge](https://gllr-spirit.github.io/nameforge/)
 
 ## 📄 License
 
-This project is currently intended as an independent web project.
-
-License information should be updated here if a specific open-source license is officially added to the repository.
+No specific open-source license is declared in this README. Unless a license is added to the repository, do not assume that the source code is licensed for reuse or redistribution.
 
 ---
 
-## 🔥 NameForge
+**NameForge — Forge your next name.**
 
-**Forge your next name.**
-
-From fantasy heroes to dragons, kingdoms, wizards, RPG characters and fictional worlds, NameForge helps turn ideas into names.
-
-🌐 **https://rayanellg.github.io/nameforge/**
+[Visit the website](https://gllr-spirit.github.io/nameforge/) · [Explore all generators](https://gllr-spirit.github.io/nameforge/all-name-generators.html) · [View the repository](https://github.com/GLLR-Spirit/nameforge)
